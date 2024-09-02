@@ -1,4 +1,4 @@
-# Tmux-config-standard
+# Tmux-config-standard (Adwaita branch)
 
 ## Getting started
 
